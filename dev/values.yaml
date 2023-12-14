@@ -10,7 +10,7 @@ service:
   port: 5000
 
 ingress:
-  enabled: false
+  enabled: true
   className: ""
   annotations: {}
     ingress.kubernetes.io/ssl-redirect: "false"
