@@ -24,4 +24,4 @@ ingress:
   tls: 
     - secretName: qa-artemis-tls
       hosts:
-        - dev-artemis.proawscloud.com
+        - qa-artemis.proawscloud.com
